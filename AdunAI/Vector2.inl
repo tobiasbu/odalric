@@ -1,5 +1,5 @@
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace mathdetails {
 		template <typename T>

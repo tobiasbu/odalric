@@ -1,6 +1,6 @@
 #include "BuildingInfo.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	BuildingInfo::BuildingInfo()
 	{

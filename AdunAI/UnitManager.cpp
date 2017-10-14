@@ -3,7 +3,7 @@
 #include "WorkersManager.h"
 #include "BaseManager.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	void UnitManager::add(BWAPI::Unit unit)
 	{

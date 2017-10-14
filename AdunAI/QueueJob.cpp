@@ -1,7 +1,7 @@
 
 #include "QueueJob.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	QueueJob::QueueJob(const int32 & type)
 		:

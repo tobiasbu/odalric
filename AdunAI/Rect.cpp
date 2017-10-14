@@ -2,7 +2,7 @@
 #include "Rect.h"
 #include "Math.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	Rect::Rect()
 	:

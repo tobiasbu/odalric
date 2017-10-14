@@ -1,7 +1,7 @@
 
 #include "MetaType.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	MetaType::MetaType(const BWAPI::UnitType & value)
 	{

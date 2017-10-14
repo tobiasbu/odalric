@@ -12,7 +12,7 @@
 
 #include <thread>
 
-namespace Odarich 
+namespace Odalric 
 {
 	void Commander::init()
 	{

@@ -23,7 +23,7 @@
 #include <sys/time.h>
 #endif
 
-namespace Odarich {
+namespace Odalric {
 
 	class Timer
 	{

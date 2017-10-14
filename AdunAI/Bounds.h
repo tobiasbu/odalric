@@ -7,7 +7,7 @@
 #include "Assert.h"
 #include <BWAPI.h>
 
-namespace Odarich {
+namespace Odalric {
 
 	// AABB - bounding box
 	struct Bounds {

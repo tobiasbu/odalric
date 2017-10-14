@@ -1,7 +1,7 @@
 
 #include "TaskCommons.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	std::mutex TaskCommons::mutex;
 	std::condition_variable TaskCommons::cv;

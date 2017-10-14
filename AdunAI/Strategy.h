@@ -11,7 +11,7 @@
 #include <BWAPI.h>
 #include <vector>
 
-namespace Odarich {
+namespace Odalric {
 
 
 	class Strategy : public Singleton<Strategy>

@@ -7,7 +7,7 @@
 #include <thread>
 #include <mutex>
 
-namespace Odarich {
+namespace Odalric {
 
 	
 

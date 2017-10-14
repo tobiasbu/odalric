@@ -1,7 +1,7 @@
 
 #include "PriorityQueue.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	/*PriotityQueue::PriotityQueue()

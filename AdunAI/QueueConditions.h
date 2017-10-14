@@ -7,7 +7,7 @@
 #include "FunctionTraits.h"
 
 
-namespace Odarich {
+namespace Odalric {
 
 	typedef bool(*func)(...);
 	typedef bool(*oai_condition)(...);

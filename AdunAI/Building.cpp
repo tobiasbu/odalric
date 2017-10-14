@@ -2,7 +2,7 @@
 #include "Building.h"
 #include "Assert.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	Building::Building()
 		:

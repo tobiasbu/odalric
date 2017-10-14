@@ -3,7 +3,7 @@
 #include <cmath>
 #include "Math.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 

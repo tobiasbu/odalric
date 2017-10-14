@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A476927F-C95F-4A5D-871E-64DAAEEE1948}</ProjectGuid>
     <RootNamespace>AdunAI</RootNamespace>
-    <ProjectName>OdarichAI</ProjectName>
+    <ProjectName>Odalric</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -108,7 +108,7 @@
     <ClCompile Include="TacticalData.cpp" />
     <ClCompile Include="TaskCommons.cpp" />
     <ClCompile Include="TerrainAnalyzer.cpp" />
-    <ClCompile Include="OdarichAIModule.cpp" />
+    <ClCompile Include="OdalricAIModule.cpp" />
     <ClCompile Include="ResourcesArea.cpp" />
     <ClCompile Include="Self.cpp" />
     <ClCompile Include="Dll.cpp" />
@@ -168,7 +168,7 @@
     <ClInclude Include="TacticalData.h" />
     <ClInclude Include="TaskCommons.h" />
     <ClInclude Include="TaskType.h" />
-    <ClInclude Include="OdarichAIModule.h" />
+    <ClInclude Include="OdalricAIModule.h" />
     <ClInclude Include="PriorityQueue.h" />
     <ClInclude Include="Squad.h" />
     <ClInclude Include="TerrainAnalyzer.h" />

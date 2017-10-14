@@ -5,7 +5,7 @@
 #include "Utils.h"
 #include "Base.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	ResourcesArea::ResourcesArea()
 		:

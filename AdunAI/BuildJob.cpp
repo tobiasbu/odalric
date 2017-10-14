@@ -2,7 +2,7 @@
 #include "BuildJob.h"
 #include "Assert.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	/*BuildJob::BuildJob(const BWAPI::TechType & techType)

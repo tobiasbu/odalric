@@ -1,7 +1,7 @@
 
 #include "MicroCommands.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace MicroCommands
 	{

@@ -9,7 +9,7 @@
 
 // base class for actions
 
-namespace Odarich {
+namespace Odalric {
 
 	
 

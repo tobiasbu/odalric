@@ -7,7 +7,7 @@
 #include "BaseManager.h"
 #include "TerrainAnalyzer.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	struct BuildableTile
 	{

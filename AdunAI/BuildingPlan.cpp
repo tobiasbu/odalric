@@ -4,7 +4,7 @@
 #include "Self.h"
 #include "Log.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	BuildingPlan::BuildingRequeriment::BuildingRequeriment(const Building & buildingToBuild)

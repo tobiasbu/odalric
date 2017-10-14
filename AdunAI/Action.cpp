@@ -2,7 +2,7 @@
 #include "Action.h"
 #include "FunctionTraits.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	Action::Action(const Action::ActionType & type)
 		:

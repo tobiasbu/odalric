@@ -5,7 +5,7 @@
 
 #include "Action.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 

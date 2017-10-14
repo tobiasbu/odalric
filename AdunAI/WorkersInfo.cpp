@@ -2,7 +2,7 @@
 #include "WorkersInfo.h"
 #include "Log.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	void WorkersInfo::addUnit(Worker & Worker)
 	{

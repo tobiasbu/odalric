@@ -6,7 +6,7 @@
 #include <BWAPI.h>
 
 
-namespace Odarich {
+namespace Odalric {
 
 	class Base;
 	class Building;

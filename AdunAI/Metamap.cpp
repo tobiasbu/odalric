@@ -2,7 +2,7 @@
 #include "Meta.h"
 #include "Self.h"
 
-namespace Odarich
+namespace Odalric
 {
 
 

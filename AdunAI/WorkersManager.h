@@ -6,7 +6,7 @@
 
 #include "Singleton.hpp"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Building;
 

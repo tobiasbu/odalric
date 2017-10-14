@@ -2,7 +2,7 @@
 #include "ActionCommand.h"
 #include "ActionBuild.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	ActionCommand::ActionCommand(const ActionCommand::ActionCommandType & command)
 		:

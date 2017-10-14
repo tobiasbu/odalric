@@ -7,7 +7,7 @@
 #include "Vector2.h"
 #include "Types.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace Math
 	{

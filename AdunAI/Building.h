@@ -6,7 +6,7 @@
 #include "Types.h"
 #include "Worker.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Building
 	{

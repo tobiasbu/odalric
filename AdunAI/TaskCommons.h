@@ -5,7 +5,7 @@
 #include <mutex>
 #include <condition_variable>
 
-namespace Odarich {
+namespace Odalric {
 
 	static class TaskCommons
 	{

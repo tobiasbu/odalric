@@ -1,6 +1,6 @@
 
 // FUTURE IMPLEMENTATION
-namespace Odarich {
+namespace Odalric {
 
 	class Region
 	{

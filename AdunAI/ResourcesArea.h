@@ -5,7 +5,7 @@
 #include <BWAPI.h>
 #include "Bounds.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Base;
 

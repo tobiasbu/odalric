@@ -1,7 +1,7 @@
 
 #include "BuildOrder.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	BuildOrder::BuildOrder()
 	{

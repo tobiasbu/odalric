@@ -6,7 +6,7 @@
 #include <unordered_set>
 #include <vector>
 
-namespace Odarich {
+namespace Odalric {
 
 
 	typedef std::unordered_set<Action*> ActionSet;

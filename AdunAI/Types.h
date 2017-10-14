@@ -6,7 +6,7 @@
 // Define portable fixed-size types
 ////////////////////////////////////////////////////////////
 
-namespace Odarich
+namespace Odalric
 {
 	//typedef bool(*condition)();
 

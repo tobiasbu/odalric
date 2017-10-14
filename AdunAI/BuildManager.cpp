@@ -3,7 +3,7 @@
 #include "Commander.h"
 #include "BuildingManager.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	BuildManager::BuildManager()

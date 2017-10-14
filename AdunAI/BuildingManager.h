@@ -8,7 +8,7 @@
 #include "Singleton.hpp"
 
 
-namespace Odarich {
+namespace Odalric {
 
 	// manages buildings:
 	// check for availble buildings, perform building action

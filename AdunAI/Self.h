@@ -5,7 +5,7 @@
 #include <BWAPI.h>
 #include "Singleton.hpp"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Self : public Singleton<Self>
 	{

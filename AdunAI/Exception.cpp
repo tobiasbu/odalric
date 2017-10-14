@@ -1,7 +1,7 @@
 
 #include "Exception.h"
 
-namespace Odarich 
+namespace Odalric 
 {
 	Exception::Exception()
 	{

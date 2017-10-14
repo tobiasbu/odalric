@@ -11,7 +11,7 @@
 
 
 
-namespace Odarich {
+namespace Odalric {
 
 	class BuildOrder : public PriotityQueue<BuildJob>
 	{

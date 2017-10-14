@@ -5,7 +5,7 @@
 #include "MetaType.h"
 #include "Action.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	class ActionBuild : public Action

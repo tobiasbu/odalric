@@ -6,7 +6,7 @@
 #include "Rect.h"
 #include "Bounds.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace Utils
 	{

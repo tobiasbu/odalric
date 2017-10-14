@@ -3,7 +3,7 @@
 #include "Math.h"
 #include "Log.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	BWAPI::Unit Utils::getNearestUnit(const BWAPI::PositionOrUnit & from, const BWAPI::UnitType & type, const BWAPI::Unitset & unitSets, const int & maxRadius)
 	{

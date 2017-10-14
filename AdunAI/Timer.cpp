@@ -1,7 +1,7 @@
 
 #include "Timer.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	Timer::Timer()
 	{

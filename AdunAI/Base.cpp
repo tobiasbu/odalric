@@ -3,7 +3,7 @@
 #include "Base.h"
 #include "Math.h"
 
-namespace Odarich 
+namespace Odalric 
 {
 	Base::Base(BWAPI::Unit  resourceDepot)
 	{

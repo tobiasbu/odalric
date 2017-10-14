@@ -9,7 +9,7 @@
 #include <sstream>
 #include "Assert.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	template<typename T>
 	class Vector2 {
@@ -286,7 +286,7 @@ namespace Odarich {
 
 #include "Vector2.inl"
 
-namespace Odarich {
+namespace Odalric {
 	typedef Vector2<int> Vector2i;
 }
 

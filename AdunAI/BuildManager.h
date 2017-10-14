@@ -9,7 +9,7 @@
 
 //BuildingInfo buildingInfo;
 
-namespace Odarich {
+namespace Odalric {
 
 	// manages build operations:
 	// retrieves build order, perform constructing actions

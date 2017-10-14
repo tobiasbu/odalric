@@ -9,7 +9,7 @@
 #include "Draw.h"
 
 
-namespace Odarich {
+namespace Odalric {
 
 
 	ResourcesAreaManager::ResourcesAreaManager()
@@ -29,7 +29,7 @@ namespace Odarich {
 		addSet(BWAPI::Broodwar->getGeysers());
 
 
-		_taskAnalyzeResourcesArea = new std::thread(&Odarich::ResourcesAreaManager::taskJoinClusters, this);
+		_taskAnalyzeResourcesArea = new std::thread(&Odalric::ResourcesAreaManager::taskJoinClusters, this);
 	}
 
 	void ResourcesAreaManager::addMineral(const BWAPI::Unit & mineral)

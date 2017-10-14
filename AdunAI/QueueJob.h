@@ -5,7 +5,7 @@
 #include "Types.h"
 
 
-namespace Odarich {
+namespace Odalric {
 
 	//class PriotityQueue;
 

@@ -5,10 +5,10 @@
 #include <string>
 #include <mutex>
 
-namespace Odarich 
+namespace Odalric 
 {
 	
-#define ODARICH_LOG_FILE "Odarich.log" // ../bwapi-data/write/
+#define ODARICH_LOG_FILE "Odalric.log" // ../bwapi-data/write/
 
 	class Log
 	{

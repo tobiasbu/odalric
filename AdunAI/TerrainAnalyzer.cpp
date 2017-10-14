@@ -10,7 +10,7 @@
 
 #define MAX_RESOURCE_INFLUENCE_RADIUS 10
 
-namespace Odarich {
+namespace Odalric {
 	
 	TerrainAnalyzer::TerrainAnalyzer()
 	{

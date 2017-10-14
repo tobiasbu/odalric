@@ -6,7 +6,7 @@
 #include <stdarg.h>
 #include <sstream>
 
-namespace Odarich
+namespace Odalric
 {
 	char messageBuffer[4096] = "";
 

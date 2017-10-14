@@ -7,7 +7,7 @@
 #include "QueueJob.h"
 #include "ActionBuild.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	/*

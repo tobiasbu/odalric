@@ -180,9 +180,6 @@
     <ClCompile Include="BuildingPlan.cpp">
       <Filter>Source Files\Building</Filter>
     </ClCompile>
-    <ClCompile Include="OdarichAIModule.cpp">
-      <Filter>Source Files\Core</Filter>
-    </ClCompile>
     <ClCompile Include="TaskCommons.cpp">
       <Filter>Source Files\Resources</Filter>
     </ClCompile>
@@ -215,6 +212,9 @@
     </ClCompile>
     <ClCompile Include="WorkersManager.cpp">
       <Filter>Source Files\Workers</Filter>
+    </ClCompile>
+    <ClCompile Include="OdalricAIModule.cpp">
+      <Filter>Source Files\Core</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -332,9 +332,6 @@
     <ClInclude Include="TaskCommons.h">
       <Filter>Header Files\ResourcesAndMap</Filter>
     </ClInclude>
-    <ClInclude Include="OdarichAIModule.h">
-      <Filter>Header Files\Core</Filter>
-    </ClInclude>
     <ClInclude Include="TerrainAnalyzer.h">
       <Filter>Header Files\MapAnalisis</Filter>
     </ClInclude>
@@ -400,6 +397,9 @@
     </ClInclude>
     <ClInclude Include="CountContainer.h">
       <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="OdalricAIModule.h">
+      <Filter>Header Files\Core</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

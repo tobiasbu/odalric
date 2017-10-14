@@ -3,7 +3,7 @@
 #include "Math.h"
 #include <limits.h>
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace Math
 	{

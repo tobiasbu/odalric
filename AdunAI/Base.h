@@ -8,7 +8,7 @@
 #include "ResourcesArea.h"
 #include "Worker.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Base
 	{

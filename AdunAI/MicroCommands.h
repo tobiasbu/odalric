@@ -5,7 +5,7 @@
 #include "Commons.h"
 
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace MicroCommands
 	{

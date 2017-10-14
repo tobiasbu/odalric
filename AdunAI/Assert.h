@@ -4,7 +4,7 @@
 
 
 
-namespace Odarich
+namespace Odalric
 {
 	namespace Assert
 	{
@@ -13,9 +13,9 @@ namespace Odarich
 	};
 }
 
-//#define _OAI_ASSERT( e ) if ( !(e) Odarich::Assert::Failure(#e, __FILE__, __LINE__) )
+//#define _OAI_ASSERT( e ) if ( !(e) Odalric::Assert::Failure(#e, __FILE__, __LINE__) )
 
-#define OAI_ASSERT( e ) ( e ) ? (void)0 : Odarich::Assert::Failure(#e, __FILE__, __LINE__)
-#define OAI_ASSERT_MSG( e, msg, ... ) if ( !(e) ) Odarich::Assert::Failure(#e, __FILE__, __LINE__, (msg), ##__VA_ARGS__)
+#define OAI_ASSERT( e ) ( e ) ? (void)0 : Odalric::Assert::Failure(#e, __FILE__, __LINE__)
+#define OAI_ASSERT_MSG( e, msg, ... ) if ( !(e) ) Odalric::Assert::Failure(#e, __FILE__, __LINE__, (msg), ##__VA_ARGS__)
 
 #endif

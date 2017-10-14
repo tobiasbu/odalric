@@ -7,7 +7,7 @@
 #include "Singleton.hpp"
 #include "Types.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	struct EnemyInfo
 	{
@@ -23,9 +23,9 @@ namespace std
 {
 
 	template<>
-	struct hash<Odarich::EnemyInfo>
+	struct hash<Odalric::EnemyInfo>
 	{
-		BWAPI::Player operator()(Odarich::EnemyInfo const & x) const
+		BWAPI::Player operator()(Odalric::EnemyInfo const & x) const
 		{
 			return x.player;
 
@@ -36,16 +36,16 @@ namespace std
 
 	//template <class U>
 	template<>
-	struct equal_to<Odarich::EnemyInfo> : public unary_function<Odarich::EnemyInfo, bool>
+	struct equal_to<Odalric::EnemyInfo> : public unary_function<Odalric::EnemyInfo, bool>
 	{
-		bool operator()(const Odarich::EnemyInfo& x, const Odarich::EnemyInfo& y) const
+		bool operator()(const Odalric::EnemyInfo& x, const Odalric::EnemyInfo& y) const
 		{
 			return  (x.player == y.player);
 		}
 	};
 }
 
-namespace Odarich {
+namespace Odalric {
 
 	typedef std::vector<EnemyInfo> EnemyList;
 

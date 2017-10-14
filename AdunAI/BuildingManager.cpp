@@ -6,7 +6,7 @@
 #include "Commander.h"
 
 
-namespace Odarich {
+namespace Odalric {
 
 	BuildingManager::BuildingManager()
 	{

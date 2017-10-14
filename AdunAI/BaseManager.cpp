@@ -6,7 +6,7 @@
 #include "Math.h"
 #include "Draw.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	BaseManager::BaseManager()
 	{

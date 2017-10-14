@@ -5,7 +5,7 @@
 #include "ResourcesAreaManager.h"
 #include "Math.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 	EnemyInfo::EnemyInfo(BWAPI::Player enemy)

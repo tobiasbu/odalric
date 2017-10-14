@@ -2,7 +2,7 @@
 #include "Resources.h"
 #include "Self.h"
 
-namespace Odarich {
+namespace Odalric {
 
 
 

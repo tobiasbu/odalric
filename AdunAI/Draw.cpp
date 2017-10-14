@@ -2,7 +2,7 @@
 #include "Draw.h"
 
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace Draw
 	{

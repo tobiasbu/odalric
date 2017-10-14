@@ -2,7 +2,7 @@
 #include "ActionContainer.h"
 #include "Assert.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	ActionContainer::ActionContainer()
 	{

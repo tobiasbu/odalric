@@ -11,7 +11,7 @@
 #include "Singleton.hpp"
 #include "Bounds.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	struct Tile
 	{

@@ -7,7 +7,7 @@
 #include "TerrainAnalyzer.h"
 #include "Math.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	ScoutUnit::ScoutUnit(BWAPI::Unit unit, const int & pathIndex)
 		:

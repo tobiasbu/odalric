@@ -5,7 +5,7 @@
 #include "Bounds.h"
 #include <BWAPI.h>
 
-namespace Odarich {
+namespace Odalric {
 
 	namespace Draw
 	{

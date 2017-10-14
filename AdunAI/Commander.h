@@ -8,7 +8,7 @@
 #include "Singleton.hpp"
 #include "UnitManager.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Commander : public Singleton<Commander>
 	{

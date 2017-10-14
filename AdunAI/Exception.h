@@ -5,7 +5,7 @@
 #include <exception>
 #include <string>
 
-namespace Odarich {
+namespace Odalric {
 
 	class Exception : public std::exception
 	{

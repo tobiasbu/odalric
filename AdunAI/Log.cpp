@@ -18,7 +18,7 @@
 
 #include "Commons.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	std::string Log::fileLogPath = "bwapi-data/write";
 	std::mutex Log::mutex;
@@ -55,7 +55,7 @@ namespace Odarich {
 		if ((err = ctime_s(date, 64, &now)) != 0)
 			date[0] = '/0';
 
-		fprintf(file, "Odarich  v%d.%d - Log\n%s\n:", ODARICH_VERSION_MAJOR, ODARICH_VERSION_MINOR, date);
+		fprintf(file, "Odalric  v%d.%d - Log\n%s\n:", ODARICH_VERSION_MAJOR, ODARICH_VERSION_MINOR, date);
 
 		fprintf(file, "------------------------------\n");
 

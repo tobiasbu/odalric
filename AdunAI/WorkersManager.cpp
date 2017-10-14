@@ -6,7 +6,7 @@
 #include "Building.h"
 #include "BaseManager.h"
 
-namespace Odarich 
+namespace Odalric 
 {
 	WorkersManager::WorkersManager()
 	{

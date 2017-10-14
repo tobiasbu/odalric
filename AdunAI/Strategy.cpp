@@ -10,7 +10,7 @@
 
 bool refinary = false;
 
-namespace Odarich {
+namespace Odalric {
 
 	ActionBuild * Strategy::makeBuildAction(const MetaType & metaType, const void * buildCondition)
 	{

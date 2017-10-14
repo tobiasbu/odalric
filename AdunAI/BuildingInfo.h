@@ -5,7 +5,7 @@
 #include "Building.h"
 #include <unordered_map>
 
-namespace Odarich {
+namespace Odalric {
 
 	typedef std::vector<Building> BuildingsList;
 

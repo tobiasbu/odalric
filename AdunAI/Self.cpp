@@ -2,7 +2,7 @@
 #include "Self.h"
 #include "Log.h"
 
-namespace Odarich 
+namespace Odalric 
 {
 	/*Throbi::Throbi()
 	{

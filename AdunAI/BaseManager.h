@@ -10,7 +10,7 @@
 
 
 
-namespace Odarich {
+namespace Odalric {
 
 	typedef std::unordered_map<BWAPI::Unit, Base> BasesMap;
 

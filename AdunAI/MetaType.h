@@ -12,9 +12,9 @@
 namespace std
 {
 	template <>
-	struct hash<Odarich::MetaTypeBase>
+	struct hash<Odalric::MetaTypeBase>
 	{
-		Odarich::int32 operator()(Odarich::MetaTypeBase const & x) const
+		Odalric::int32 operator()(Odalric::MetaTypeBase const & x) const
 		{
 			return x.getType();
 
@@ -24,9 +24,9 @@ namespace std
 	};
 
 	template <>
-	struct equal_to<Odarich::MetaTypeBase> : public unary_function<Odarich::MetaTypeBase, bool>
+	struct equal_to<Odalric::MetaTypeBase> : public unary_function<Odalric::MetaTypeBase, bool>
 	{
-		bool operator()(const Odarich::MetaTypeBase& x, const Odarich::MetaTypeBase& y) const
+		bool operator()(const Odalric::MetaTypeBase& x, const Odalric::MetaTypeBase& y) const
 		{
 			return  (x.getType() == y.getType() && x.getID() == y.getID());
 		}
@@ -39,7 +39,7 @@ namespace Meta
 
 }
 
-namespace Odarich 
+namespace Odalric 
 {
 	
 	class MetaType
@@ -142,9 +142,9 @@ namespace std
 {
 	
 	template<>
-	struct hash<Odarich::MetaType>
+	struct hash<Odalric::MetaType>
 	{
-		Odarich::int32 operator()(Odarich::MetaType const & x) const
+		Odalric::int32 operator()(Odalric::MetaType const & x) const
 		{
 			return x.getType();
 
@@ -155,9 +155,9 @@ namespace std
 
 	//template <class U>
 	template<>
-	struct equal_to<Odarich::MetaType> : public unary_function<Odarich::MetaType, bool>
+	struct equal_to<Odalric::MetaType> : public unary_function<Odalric::MetaType, bool>
 	{
-		bool operator()(const Odarich::MetaType& x, const Odarich::MetaType& y) const
+		bool operator()(const Odalric::MetaType& x, const Odalric::MetaType& y) const
 		{
 			return  (x.getType() == y.getType() && x.getID() == y.getID());
 		}

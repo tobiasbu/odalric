@@ -4,7 +4,7 @@
 
 #include <BWAPI.h>
 
-namespace Odarich {
+namespace Odalric {
 
 	struct Rect
 	{

@@ -9,7 +9,7 @@
 
 #include "Worker.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	typedef std::unordered_map<BWAPI::Unit, Worker> WorkersMap;
 

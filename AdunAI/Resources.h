@@ -4,7 +4,7 @@
 
 #include "Singleton.hpp"
 
-namespace Odarich {
+namespace Odalric {
 
 	class Resources : public Singleton<Resources>
 	{

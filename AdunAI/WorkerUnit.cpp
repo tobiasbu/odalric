@@ -6,7 +6,7 @@
 #include "Utils.h"
 #include "Building.h"
 
-namespace Odarich {
+namespace Odalric {
 
 	
 
